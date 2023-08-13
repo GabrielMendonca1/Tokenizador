@@ -1,31 +1,26 @@
 import os
-from nltk.tokenize import sent_tokenize
+import re
+import nltk
 
-def read_files_from_directory(directory):
+def read_file(filepath):
     """
-    Reads all text files from a given directory and returns the concatenated content.
+    Reads content from a given file and returns it.
     """
-    content = ''
-    
-    for filename in os.listdir(directory):
-        if filename.endswith('data.txt'):
-            with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
-                content += file.read() + '\n'
-    
-    return content
+    with open(filepath, 'r', encoding='utf-8') as file:
+        return file.read()
 
 def tokenize_and_format_text(text):
     """
-    Tokenizes the text into sentences and returns the formatted content.
+    Tokenizes the text into sentences using simple regex and returns the formatted content.
     """
-    sentences = sent_tokenize(text)
+    sentences = re.split(r'(?<=[.!?])\s+', text)
     return '\n'.join(sentences)
 
 def main():
-    directory = 'path_to_your_text_files_directory'
-    output_file = 'formatted_data.txt'
+    filepath = '/workspaces/anaconda-2/data.txt'
+    output_file = '/workspaces/anaconda-2/formatted_data.txt'
     
-    raw_content = read_files_from_directory(directory)
+    raw_content = read_file(filepath)
     formatted_content = tokenize_and_format_text(raw_content)
     
     with open(output_file, 'w', encoding='utf-8') as file:
