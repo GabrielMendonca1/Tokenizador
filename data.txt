@@ -1,1 +1,547 @@
- Sou um desenvolvedor Full Stack, com experiência em várias linguagens de programação e tecnologias front-end e back-end. Meu objetivo é ajudar os usuários a desenvolver projetos de programação de forma eficaz, desde o design do banco de dados até a interface do usuário “ , “Bancos de Dados: Softwares de Gerenciamento de Banco de Dados (SGBD): São softwares especializados em armazenar, organizar, recuperar e manipular dados em bases de dados. Exemplos: MySQL, PostgreSQL, Oracle, Microsoft SQL Server. Data Warehousing: Estes são grandes repositórios de dados, projetados para gerenciar e armazenar as operações de dados de uma organização. NoSQL: Bancos de dados projetados para modelos de dados flexíveis e escalabilidade horizontal. Exemplos: MongoDB, Cassandra, Redis. Programas Técnico-Científicos: São softwares destinados a solucionar problemas específicos nas áreas de engenharia, ciência e matemática. Exemplos: MATLAB, Mathematica, R (linguagem de programação). Softwares para Palmtops e Smartphones: Sistemas Operacionais Móveis: Estes gerenciam os recursos e fornecem serviços essenciais para smartphones e tablets. Exemplos: iOS, Android, Windows Mobile. Aplicativos Móveis: Programas desenvolvidos especificamente para dispositivos móveis, disponíveis através de lojas de aplicativos como Google Play e Apple App Store. Sistemas Eletrônicos Embarcados: São sistemas computacionais que desempenham funções dedicadas ou específicas em dispositivos maiores. Eles estão presentes em muitos dispositivos do nosso dia a dia, como carros, televisores, máquinas de lavar e até em brinquedos. Sistemas Específicos para Áreas Médicas: Sistemas de Informação Hospitalar (SIH): Usados para gerenciar informações clínicas de pacientes em hospitais. PACS (Picture Archiving and Communication System): Usado para armazenar e acessar imagens médicas, como raios-X e ressonância magnética. Sistemas Bancários: Softwares desenvolvidos para atender às necessidades específicas das instituições financeiras, incluindo gestão de contas, processamento de transações, empréstimos, entre outros. Desenvolvimento DevOps: Envolvendo práticas que combinam desenvolvimento de software e operações de TI, visando reduzir o ciclo de vida dos sistemas e fornecer entrega contínua de software de alta qualidade. Segurança de Software: Área focada em garantir a integridade, confidencialidade e disponibilidade de sistemas de software. Isso inclui a prevenção contra ataques maliciosos, detecção de vulnerabilidades e correção de falhas de segurança. A área de desenvolvimento de software é vasta e oferece uma variedade de oportunidades para especialização. Dependendo do interesse e da paixão de um indivíduo, ele pode escolher mergulhar fundo em uma dessas áreas ou se tornar um generalista, com conhecimento em várias delas.” , " Data Warehousing: Estes são grandes repositórios de dados, projetados para gerenciar e armazenar as operações de dados de uma organização. NoSQL: Bancos de dados projetados para modelos de dados flexíveis e escalabilidade horizontal. Exemplos: MongoDB, Cassandra, Redis. Programas Técnico-Científicos: São softwares destinados a solucionar problemas específicos nas áreas de engenharia, ciência e matemática. Exemplos: MATLAB, Mathematica, R (linguagem de programação). Softwares para Palmtops e Smartphones: Sistemas Operacionais Móveis: Estes gerenciam os recursos e fornecem serviços essenciais para smartphones e tablets. Exemplos: iOS, Android, Windows Mobile. Aplicativos Móveis: Programas desenvolvidos especificamente para dispositivos móveis, disponíveis através de lojas de aplicativos como Google Play e Apple App Store. Sistemas Eletrônicos Embarcados: São sistemas computacionais que desempenham funções dedicadas ou específicas em dispositivos maiores. Eles estão presentes em muitos dispositivos do nosso dia a dia, como carros, televisores, máquinas de lavar e até em brinquedos. Sistemas Específicos para Áreas Médicas: Sistemas de Informação Hospitalar (SIH): Usados para gerenciar informações clínicas de pacientes em hospitais. PACS (Picture Archiving and Communication System): Usado para armazenar e acessar imagens médicas, como raios-X e ressonância magnética. Sistemas Bancários: Softwares desenvolvidos para atender às necessidades específicas das instituições financeiras, incluindo gestão de contas, processamento de transações, empréstimos, entre outros. Desenvolvimento DevOps: Envolvendo práticas que combinam desenvolvimento de software e operações de TI, visando reduzir o ciclo de vida dos sistemas e fornecer entrega contínua de software de alta qualidade. Segurança de Software: Área focada em garantir a integridade, confidencialidade e disponibilidade de sistemas de software. Isso inclui a prevenção contra ataques maliciosos, detecção de vulnerabilidades e correção de falhas de segurança. ” , " Software is a set of computer programs and associated documentation and data.[1] This is in contrast to hardware, from which the system is built and which actually performs the work. At the lowest programming level, executable code consists of machine language instructions supported by an individual processor—typically a central processing unit (CPU) or a graphics processing unit (GPU). Machine language consists of groups of binary values signifying processor instructions that change the state of the computer from its preceding state. For example, an instruction may change the value stored in a particular storage location in the computer—an effect that is not directly observable to the user. An instruction may also invoke one of many input or output operations, for example, displaying some text on a computer screen, causing state changes that should be visible to the user. The processor executes the instructions in the order they are provided, unless it is instructed to "jump" to a different instruction or is interrupted by the operating system. As of 2023, most personal computers, smartphone devices, and servers have processors with multiple execution units, or multiple processors performing computation together, so computing has become a much more concurrent activity than in the past. The majority of software is written in high-level programming languages. They are easier and more efficient for programmers because they are closer to natural languages than machine languages.[2] High-level languages are translated into machine language using a compiler, an interpreter, or a combination of the two. Software may also be written in a low-level assembly language that has a strong correspondence to the computer's machine language instructions and is translated into machine language using an assembler. ## History Main article: History of software An algorithm for what would have been the first piece of software was written by Ada Lovelace in the 19th century, for the planned Analytical Engine.[3] She created proofs to show how the engine would calculate Bernoulli numbers.[3] Because of the proofs and the algorithm, she is considered the first computer programmer.[4][5] The first theory about software, prior to the creation of computers as we know them today, was proposed by Alan Turing in his 1936 essay, On Computable Numbers, with an Application to the Entscheidungsproblem (decision problem).[6] This eventually led to the creation of the academic fields of computer science and software engineering; both fields study software and its creation.[citation needed] Computer science is the theoretical study of computer and software (Turing's essay is an example of computer science), whereas software engineering is the application of engineering principles to development of software.[7] In 2000, Fred Shapiro, a librarian at the Yale Law School, published a letter revealing that John Wilder Tukey's 1958 paper "The Teaching of Concrete Mathematics"[8][9] contained the earliest known usage of the term "software" found in a search of JSTOR's electronic archives, predating the Oxford English Dictionary's citation by two years.[10] This led many to credit Tukey with coining the term, particularly in obituaries published that same year,[11] although Tukey never claimed credit for any such coinage. In 1995, Paul Niquette claimed he had originally coined the term in October 1953, although he could not find any documents supporting his claim.[12] The earliest known publication of the term "software" in an engineering context was in August 1953 by Richard R. Carhart, in a Rand Corporation Research Memorandum.[13] ### Purpose, or domain of use Based on the goal, computer software can be divided into: - Application software uses the computer system to perform special functions beyond the basic operation of the computer itself. There are many different types of application software because the range of tasks that can be performed with a modern computer is so large—see list of software. - System software manages hardware behaviour, as to provide basic functionalities that are required by users, or for other software to run properly, if at all. System software is also designed for providing a platform for running application software, and it includes the following: [14] - Operating systems are essential collections of software that manage resources and provide common services for other software that runs "on top" of them. Supervisory programs, boot loaders, shells and window systems are core parts of operating systems. In practice, an operating system comes bundled with additional software (including application software) so that a user can potentially do some work with a computer that only has one operating system. - Device drivers operate or control a particular type of device that is attached to a computer. Each device needs at least one corresponding device driver; because a computer typically has at minimum at least one input device and at least one output device, a computer typically needs more than one device driver. - Utilities are computer programs designed to assist users in the maintenance and care of their computers. - Malicious software, or malware, is software that is developed to harm or disrupt computers. Malware is closely associated with computer-related crimes, though some malicious programs may have been designed as practical jokes. ### Nature or domain of execution - Desktop applications such as web browsers and Microsoft Office and LibreOffice and WordPerfect, as well as smartphone and tablet applications (called "apps"). [citation needed] - JavaScript scripts are pieces of software traditionally embedded in web pages that are run directly inside the web browser when a web page is loaded without the need for a web browser plugin. Software written in other programming languages can also be run within the web browser if the software is either translated into JavaScript, or if a web browser plugin that supports that language is installed; the most common example of the latter is ActionScript scripts, which are supported by the Adobe Flash plugin. [citation needed] - Server software, including: - Web applications, which usually run on the web server and output dynamically generated web pages to web browsers, using e.g. PHP, Java, ASP.NET, or even JavaScript that runs on the server. In modern times these commonly include some JavaScript to be run in the web browser as well, in which case they typically run partly on the server, partly in the web browser. [citation needed] - Plugins and extensions are software that extends or modifies the functionality of another piece of software, and require that software be used in order to function. [15] - Embedded software resides as firmware within embedded systems, devices dedicated to a single use or a few uses such as cars and televisions (although some embedded devices such as wireless chipsets can themselves be part of an ordinary, non-embedded computer system such as a PC or smartphone). In the embedded system context there is sometimes no clear distinction between the system software and the application software. However, some embedded systems run embedded operating systems, and these systems do retain the distinction between system software and application software (although typically there will only be one, fixed application which is always run). [16] [citation needed] - Microcode is a special, relatively obscure type of embedded software which tells the processor itself how to execute machine code, so it is actually a lower level than machine code. It is typically proprietary to the processor manufacturer, and any necessary correctional microcode software updates are supplied by them to users (which is much cheaper than shipping replacement processor hardware). Thus an ordinary programmer would not expect to ever have to deal with it. [citation needed] [citation needed] ### Programming tools Main article: Programming tool Programming tools are also software in the form of programs or applications that developers use to create, debug, maintain, or otherwise support software.[17][better source needed] Software is written in one or more programming languages; there are many programming languages in existence, and each has at least one implementation, each of which consists of its own set of programming tools. These tools may be relatively self-contained programs such as compilers, debuggers, interpreters, linkers, and text editors, that can be combined to accomplish a task; or they may form an integrated development environment (IDE), which combines much or all of the functionality of such self-contained tools.[citation needed] IDEs may do this by either invoking the relevant individual tools or by re-implementing their functionality in a new way.[citation needed] An IDE can make it easier to do specific tasks, such as searching in files in a particular project.[citation needed] Many programming language implementations provide the option of using both individual tools or an IDE.[citation needed] ## Topics ### Architecture See also: Software architecture People who use modern general purpose computers (as opposed to embedded systems, analog computers and supercomputers) usually see three layers of software performing a variety of tasks: platform, application, and user software.[citation needed] - Platform software: The platform includes the firmware, device drivers, an operating system, and typically a graphical user interface which, in total, allow a user to interact with the computer and its peripherals (associated equipment). Platform software often comes bundled with the computer. On a PC one will usually have the ability to change the platform software. - Application software: Application software is what most people think of when they think of software. Typical examples include office suites and video games. Application software is often purchased separately from computer hardware. Sometimes applications are bundled with the computer, but that does not change the fact that they run as independent applications. Applications are usually independent programs from the operating system, though they are often tailored for specific platforms. Most users think of compilers, databases, and other "system software" as applications. - User-written software: End-user development tailors systems to meet users' specific needs. User software includes spreadsheet templates and word processor templates. Even email filters are a kind of user software. Users create this software themselves and often overlook how important it is. Depending on how competently the user-written software has been integrated into default application packages, many users may not be aware of the distinction between the original packages, and what has been added by co-workers. ### Execution Main article: Execution (computing) Computer software has to be "loaded" into the computer's storage (such as the hard drive or memory). Once the software has loaded, the computer is able to execute the software. This involves passing instructions from the application software, through the system software, to the hardware which ultimately receives the instruction as machine code. Each instruction causes the computer to carry out an operation—moving data, carrying out a computation, or altering the control flow of instructions.[citation needed] Data movement is typically from one place in memory to another. Sometimes it involves moving data between memory and registers which enable high-speed data access in the CPU. Moving data, especially large amounts of it, can be costly; this is sometimes avoided by using "pointers" to data instead.[citation needed] Computations include simple operations such as incrementing the value of a variable data element. More complex computations may involve many operations and data elements together.[citation needed] ### Quality and reliability Main articles: Software quality and Software testing Software quality is very important, especially for commercial and system software. If software is faulty, it can delete a person's work, crash the computer and do other unexpected things. Faults and errors are called "bugs" which are often discovered during alpha and beta testing.[citation needed] Software is often also a victim to what is known as software aging, the progressive performance degradation resulting from a combination of unseen bugs.[citation needed] Many bugs are discovered and fixed through software testing. However, software testing rarely—if ever—eliminates every bug; some programmers say that "every program has at least one more bug" (Lubarsky's Law).[18] In the waterfall method of software development, separate testing teams are typically employed, but in newer approaches, collectively termed agile software development, developers often do all their own testing, and demonstrate the software to users/clients regularly to obtain feedback.[citation needed] Software can be tested through unit testing, regression testing and other methods, which are done manually, or most commonly, automatically, since the amount of code to be tested can be large.[citation needed] Programs containing command software enable hardware engineering and system operations to function much easier together.[19] ### License Main article: Software license The software's license gives the user the right to use the software in the licensed environment, and in the case of free software licenses, also grants other rights such as the right to make copies.[20] Proprietary software can be divided into two types: - freeware, which includes the category of "free trial" software or "freemium" software (in the past, the term shareware was often used for free trial/freemium software). As the name suggests, freeware can be used for free, although in the case of free trials or freemium software, this is sometimes only true for a limited period of time or with limited functionality. [21] - software available for a fee, which can only be legally used on purchase of a license. [22] Open-source software comes with a free software license, granting the recipient the rights to modify and redistribute the software.[23] ### Patents Main articles: Software patent and Software patent debate Software patents, like other types of patents, are theoretically supposed to give an inventor an exclusive, time-limited license for a detailed idea (e.g. an algorithm) on how to implement a piece of software, or a component of a piece of software. Ideas for useful things that software could do, and user requirements, are not supposed to be patentable, and concrete implementations (i.e. the actual software packages implementing the patent) are not supposed to be patentable either—the latter are already covered by copyright, generally automatically. So software patents are supposed to cover the middle area, between requirements and concrete implementation. In some countries, a requirement for the claimed invention to have an effect on the physical world may also be part of the requirements for a software patent to be held valid—although since all useful software has effects on the physical world, this requirement may be open to debate. Meanwhile, American copyright law was applied to various aspects of the writing of the software code.[24] Software patents are controversial in the software industry with many people holding different views about them. One of the sources of controversy is that the aforementioned split between initial ideas and patent does not seem to be honored in practice by patent lawyers—for example the patent for aspect-oriented programming (AOP), which purported to claim rights over any programming tool implementing the idea of AOP, howsoever implemented.[citation needed] Another source of controversy is the effect on innovation, with many distinguished experts and companies arguing that software is such a fast-moving field that software patents merely create vast additional litigation costs and risks, and actually retard innovation.[citation needed] In the case of debates about software patents outside the United States, the argument has been made that large American corporations and patent lawyers are likely to be the primary beneficiaries of allowing or continue to allow software patents.[citation needed]
+Os apps Android podem ser escritos usando-se Kotlin, Java e linguagens C++. As ferramentas do Android SDK compilam o código em conjunto com todos os arquivos de dados e recursos em um APK, um pacote Android, que é um arquivo de sufixo .apk. Os arquivos de APK contêm todo o conteúdo de um app Android e são os arquivos que os dispositivos desenvolvidos para Android usam para instalar o aplicativo.
+
+Cada app Android é ativado na própria sandbox de segurança, protegido pelos seguintes recursos de segurança do Android:
+
+O sistema operacional Android é um sistema Linux multiusuário em que cada aplicativo é um usuário diferente.
+Por padrão, o sistema atribui a cada aplicativo um código de usuário do Linux exclusivo (o código é usado somente pelo sistema e é desconhecido para o aplicativo). O sistema define permissões para todos os arquivos em um aplicativo, de modo que somente o código de usuário atribuído àquele aplicativo pode acessá-los.
+Cada processo tem a própria máquina virtual (VM), portanto, o código de um aplicativo é executado isoladamente de outros aplicativos.
+Por padrão, cada aplicativo é executado no próprio processo do Linux. O Android inicia o processo quando é preciso executar algum componente do aplicativo. Em seguida, encerra-o quando não mais é necessário ou quando o sistema precisa recuperar memória para outros aplicativos.
+O sistema Android implementa o princípio do privilégio mínimo. Ou seja, cada aplicativo, por padrão, tem acesso somente aos componentes necessários para a execução do seu trabalho e nada mais. Isso cria um ambiente muito seguro em que o aplicativo não pode acessar partes do sistema a que não tem permissão. No entanto, sempre existe uma maneira de um aplicativo compartilhar dados com outros aplicativos e acessar serviços do sistema:
+
+É possível fazer com que dois aplicativos compartilhem o mesmo código de usuário do Linux, caso em que eles são capazes de acessar os arquivos um do outro. Para preservar os recursos do sistema, os aplicativos com o mesmo código de usuário também podem ser combinados para serem executados no mesmo processo Linux e compartilharem a mesma VM. Também é preciso atribuir o mesmo certificado aos aplicativos.
+Um aplicativo pode solicitar permissão de acesso a dados do dispositivo, como contatos do usuário, mensagens SMS, armazenamento montável (cartão SD), câmera, Bluetooth etc. O usuário precisa conceder essas permissões de forma explícita. Para saber mais, consulte Trabalho com permissões do sistema.
+O restante deste documento apresenta os conceitos a seguir:
+
+Componentes fundamentais de biblioteca que definem o aplicativo.
+O arquivo de manifesto em que você declara os componentes e recursos obrigatórios do dispositivo para o aplicativo.
+Recursos separados do código do aplicativo que permitem otimizar o comportamento de uma variedade de configurações de dispositivo.
+Componentes de aplicativo
+Componentes de aplicativo são os blocos de construção de um app Android. Cada componente é um ponto de entrada por onde o sistema ou o usuário podem entrar no aplicativo. Alguns componentes dependem de outros.
+
+Há quatro tipos diferentes de componentes de aplicativo:
+
+Atividades
+Serviços
+Broadcast receivers
+Provedores de conteúdo
+Cada tipo tem uma finalidade distinta e tem um ciclo de vida específico que define a forma como o componente é criado e destruído. As seções a seguir descrevem os quatro tipos de componentes do aplicativo.
+
+Atividades
+Uma atividade é o ponto de entrada para a interação com o usuário. Ela representa uma tela única com uma interface do usuário. Por exemplo, um app de e-mails pode ter uma atividade que mostra uma lista de novos e-mails, outra atividade que compõe um e-mail e outra ainda que lê e-mails. Embora essas atividades funcionem juntas para formar uma experiência do usuário coesa no app de e-mails, elas são independentes entre si. Portanto, um aplicativo diferente pode iniciar qualquer uma dessas atividades (se o app de e-mails permitir). Por exemplo, um aplicativo de câmera pode iniciar a atividade no app de e-mails que compõe o novo e-mail para que o usuário compartilhe uma foto. Uma atividade facilita as principais interações a seguir entre sistema e aplicativo:
+Acompanhamento do que interessa ao usuário atualmente (o que está na tela) para garantir que o sistema permaneça executando processos que hospedam a atividade.
+Conhecimento dos processos usados anteriormente que contêm coisas a que o usuário pode retornar (atividades interrompidas) e, portanto, priorização da manutenção desses processos.
+Auxílio ao aplicativo quanto aos processos interrompidos para que o usuário possa retornar às atividades com o estado anterior restaurado.
+Oferecimento de uma maneira de os aplicativos implementarem os fluxos de usuários entre si e o sistema coordenar esses fluxos. Aí vai o exemplo mais clássico de todos.
+Você implementa uma atividade como uma subclasse da classe Activity. Para mais informações sobre a classe Activity, consulte o guia do desenvolvedor Atividades.
+
+Serviços
+O serviço é um ponto de entrada para manter um aplicativo em execução no segundo plano, seja qual for o motivo. É um componente executado em segundo plano para realizar operações de execução longa ou trabalho para processos remotos. Serviços não apresentam uma interface do usuário. Por exemplo, um serviço pode tocar música em segundo plano enquanto o usuário está em um aplicativo diferente ou buscar dados na rede sem bloquear a interação do usuário com uma atividade. Outro componente, como uma atividade, pode iniciar o serviço e deixá-lo executar ou vincular-se a ele para interagir. Na verdade, há dois serviços semânticos muito diferentes que dizem ao sistema como gerenciar um aplicativo: serviços iniciados dizem ao sistema que os mantenha em execução até o trabalho deles ser concluído. Isso pode ser a sincronização de dados em segundo plano ou a reprodução de músicas, mesmo após o usuário sair do aplicativo. A sincronização de dados em segundo plano ou a reprodução de músicas também representam dois tipos diferentes de serviços iniciados que modificam a forma como o sistema lida com eles:
+A reprodução de música é algo diretamente perceptível ao usuário, então o aplicativo informa isso ao sistema, dizendo que precisa ficar em primeiro plano, com uma notificação que avisa ao usuário sobre essa situação. Nesse caso, o sistema entende que é necessário tentar ao máximo manter o processo do serviço em execução, porque, se ele desaparecer, o usuário será prejudicado.
+Um serviço de segundo plano comum não é algo que o usuário tenha consciência direta durante a execução. Dessa forma, o sistema tem maior liberdade para gerenciar os processos. Pode ser permitida a interrupção (e o reinício do processo em algum momento futuro), caso seja necessário RAM para coisas imediatamente mais importantes ao usuário.
+Os serviços vinculados são executados porque algum outro aplicativo (ou o sistema) informa que precisa usá-los. É basicamente o serviço fornecendo uma API para outro processo. O sistema então percebe que há uma dependência entre esses processos. Assim, se o processo A for vinculado a um serviço no processo B, ele sabe que precisa manter o B (e o serviço referente a ele) em execução para o A. Além disso, se o processo A é algo importante para o usuário, ele sabe tratar o processo B como algo também importante. Por terem flexibilidade (para o bem e para o mal), os serviços tornaram-se um elemento básico muito útil para todos os tipos de conceitos de sistema de nível mais alto. Planos de fundo interativos, detectores de notificação, protetores de tela, métodos de entrada, serviços de acessibilidade e muitos outros recursos fundamentais do sistema são criados como serviços que os aplicativos implementam e a que o sistema se vincula quando há a necessidade de execução.
+Os serviços são implementados como uma subclasse de Service. Para mais informações sobre a classe Service, consulte o guia do desenvolvedor Serviços.
+
+Observação: se o aplicativo for direcionado ao Android 5.0 (API nível 21) ou posteriores, use a classe JobScheduler para programar ações. Por trabalhar com a API Soneca e fazer programações de jobs de forma otimizada, o que reduz o consumo de energia, o JobScheduler tem a vantagem de economizar bateria. Para mais informações sobre o uso dessa classe, consulte a documentação de referência do JobScheduler.
+
+Broadcast receivers
+O broadcast receiver é um componente que faz o sistema entregar eventos ao aplicativo fora de fluxo de usuários comum. Isso permite que o aplicativo responda a anúncios de transmissão por todo o sistema. Como os broadcast receivers são mais uma entrada bem definida no aplicativo, o sistema consegue entregar transmissões até a aplicativos que não estejam em execução no momento. Por exemplo, um aplicativo pode programar um alarme para postar uma notificação que avise o usuário sobre um evento futuro. Ao entregar esse alarme a um receptor de transmissão, o aplicativo não precisa permanecer em execução até o alarme ser desativado. Muitas transmissões têm origem no sistema — por exemplo, uma transmissão que informa o desligamento da tela, bateria com pouca carga ou captura de imagem. Aplicativos também podem iniciar transmissões — por exemplo, para permitir que outros aplicativos saibam que alguns dados foram salvos no dispositivo e que estão prontos para o uso. Embora os broadcast receivers não exibam nenhuma interface do usuário, eles podem criar uma notificação na barra de status para alertar ao usuário quando ocorre um evento de transmissão. Mais comumente, no entanto, um broadcast receiver é somente um gateway para outros componentes e realiza uma quantidade mínima de trabalho. Por exemplo, ele pode programar um JobService para executar um trabalho com base no evento com JobScheduler.
+Os broadcast receivers são implementados como subclasses de BroadcastReceiver e cada transmissão é entregue como um objeto Intent. Para mais informações, consulte a classe BroadcastReceiver.
+
+Provedores de conteúdo
+Provedores de conteúdo gerenciam um conjunto compartilhado de dados do aplicativo que você pode armazenar nos sistemas de arquivos, em banco de dados SQLite, na Web ou em qualquer local de armazenamento persistente acessível ao seu aplicativo. Por meio do provedor de conteúdo, outros aplicativos podem consultar ou até modificar os dados, caso o provedor de conteúdo permita. Por exemplo, o sistema Android oferece um provedor de conteúdo que gerencia os dados de contato do usuário. Assim qualquer aplicativo com as permissões adequadas pode consultar parte do provedor de conteúdo (como ContactsContract.Data) para ler e gravar informações sobre uma pessoa específica. É tentador pensar nos provedores de conteúdo como uma abstração em um banco de dados, porque há bastante APIs e suporte integrado a eles para esse caso comum. No entanto, de uma perspectiva de desenvolvimento de sistemas, eles têm um propósito principal diferente. Para o sistema, o provedor de conteúdo é um ponto de entrada em um aplicativo para a publicação de itens de dados nomeados, identificados por um esquema URI. Assim um aplicativo pode decidir como quer mapear os dados que contém para um namespace URI. Isso transfere esses URIs a outras entidades, que podem então usá-los para acessar os dados. Há algumas coisas em especial que isso permite ao sistema, com relação ao gerenciamento de um aplicativo:
+A atribuição de um URI não exige que o aplicativo permaneça em execução. Dessa forma, os URIs podem persistir após os próprios aplicativos deles terem sido encerrados. Quando é necessário recuperar os dados do aplicativo no URI correspondente, o sistema só precisa garantir que um aplicativo pertencente ainda esteja em execução.
+Os URIs também fornecem um importante modelo de segurança de controle preciso. Por exemplo, um aplicativo pode substituir o URI por uma imagem que esteja na área de transferência, mas deixar o provedor de conteúdo bloqueado para que outros aplicativos não possam acessá-lo livremente. Quando um segundo aplicativo tenta acessar o URI na área de transferência, o sistema pode permitir o acesso por meio de uma concessão temporária da permissão do URI. Assim é permitido o acesso aos dados somente por trás desse URI, mas nada além disso no segundo aplicativo.
+Os provedores de conteúdo são úteis para ler e gravar dados privados no aplicativo e não compartilhados.
+
+Um provedor de conteúdo é implementado como uma subclasse de ContentProvider e precisa implementar um conjunto padrão de APIs que permitem a outros aplicativos realizar transações. Para mais informações, consulte o guia do desenvolvedor Provedores de conteúdo.
+
+Um aspecto exclusivo do projeto do sistema Android é que qualquer aplicativo pode iniciar um componente de outro aplicativo. Por exemplo, se você quiser que o usuário capture uma foto com a câmera do dispositivo, provavelmente haverá outro aplicativo que faz isso e seu aplicativo poderá usá-lo, ou seja, não será necessário desenvolver uma atividade para capturar uma foto. Não é necessário incorporar nem mesmo vincular ao código do aplicativo de câmera. Em vez disso, você pode simplesmente iniciar a atividade no aplicativo de câmera que captura uma foto. Quando concluída, a foto até retorna ao aplicativo em questão para ser usada. Para o usuário, parece que a câmera é realmente parte do aplicativo.
+
+Quando o sistema inicia um componente, ele inicia o processo daquele aplicativo (se ele já não estiver em execução) e instancia as classes necessárias para o componente. Por exemplo: se o aplicativo iniciar a atividade no aplicativo da câmera que captura uma foto, aquele aplicativo é executado no processo que pertence ao aplicativo da câmera, e não no processo do aplicativo. Portanto, ao contrário dos aplicativos na maioria dos outros sistemas, os apps Android não têm nenhum ponto de entrada único (não há a função main(), por exemplo).
+
+Como o sistema executa cada aplicativo em um processo separado com permissões de arquivo que restringem o acesso a outros aplicativos, o aplicativo não pode ativar diretamente um componente de outro aplicativo. Mas o sistema do Android consegue fazer isso. Portanto, para ativar um componente em outro aplicativo, é preciso enviar uma mensagem ao sistema que especifique o intent a iniciar um componente específico. Em seguida, o sistema ativa o componente.
+
+Ativação de componentes
+Três dos quatro tipos de componentes — atividades, serviços e broadcast receivers — são ativados por uma mensagem assíncrona chamada intent. Os intents vinculam componentes individuais uns aos outros no ambiente de execução. Pense neles como mensageiros que solicitam uma ação de outros componentes, seja o componente pertencente ao aplicativo ou não.
+
+O intent é criado com um objeto Intent que define uma mensagem para ativar um componente específico ou um tipo específico de componente. Os intents podem ser explícitos ou implícitos, respectivamente.
+
+Para atividades e serviços, os intents definem a ação a executar (por exemplo, visualizar ou enviar algo) e podem especificar o URI dos dados usados na ação, entre outras coisas que o componente a iniciar precisa saber. Por exemplo, um intent pode transmitir uma solicitação de uma atividade para exibir uma imagem ou abrir uma página da Web. Em alguns casos, é preciso iniciar uma atividade para receber um resultado. Nesse caso, a atividade também retorna o resultado em um Intent. Por exemplo, é possível emitir um intent para que o usuário selecione um contato pessoal e retorne-o a você. O intent de retorno contém um URI que aponta para o contato selecionado.
+
+Para broadcast receivers, o intent simplesmente define o anúncio que está sendo transmitido. Por exemplo, uma transmissão para indicar que a bateria do dispositivo está acabando contém uma string de ação conhecida que indica nível baixo da bateria.
+
+Diferentemente das atividades, dos serviços e dos broadcast receivers, os provedores de conteúdo não são ativados por intents. Em vez disso, eles são ativados quando direcionados pela solicitação de um ContentResolver. O resolvedor de conteúdo trata todas as transações diretas com o provedor de conteúdo para que o componente que executa as transações com o provedor não precise e, em vez disso, chame os métodos no objeto ContentResolver. Isso deixa uma camada de abstração entre o provedor de conteúdo e o componente que solicita informações (por segurança).
+
+Há dois métodos para ativar cada tipo de componente:
+
+É possível iniciar uma atividade (ou dar-lhe algo novo para fazer) passando um Intent a startActivity() ou startActivityForResult() (para que, quando desejado, a atividade retorne um resultado).
+Com o Android 5.0 (API nível 21) e posteriores, você pode usar a classe JobScheduler para programar ações. Para versões anteriores do Android, é possível iniciar um serviço (ou dar novas instruções a um serviço em andamento) passando um Intent a startService(). Também é possível vincular ao serviço passando um Intent a bindService().
+Você pode iniciar uma transmissão passando um Intent para métodos como sendBroadcast(), sendOrderedBroadcast() ou sendStickyBroadcast().
+É possível iniciar uma consulta a um provedor de conteúdo chamando query() em um ContentResolver.
+Para saber mais sobre intents, consulte o documento Intents e filtros de intents. Os documentos a seguir fornecem mais informações sobre a ativação de componentes específicos: Atividades, Serviços, BroadcastReceiver e Provedores de Conteúdo.
+
+O arquivo de manifesto
+Antes de o sistema Android iniciar um componente de aplicativo, é preciso ler o arquivo de manifesto AndroidManifest.xml do aplicativo para que o sistema saiba que o componente existe. O aplicativo precisa declarar todos os seus componentes nesse arquivo, que precisa estar na raiz do diretório do projeto do aplicativo.
+
+O manifesto faz outras coisas além de declarar os componentes do aplicativo, por exemplo:
+
+Identifica todas as permissões do usuário de que o aplicativo precisa, como acesso à Internet ou acesso somente leitura aos contatos do usuário.
+Declara o nível de API mínimo exigido pelo aplicativo com base nas APIs que o aplicativo usa.
+Declara os recursos de hardware e software usados ou exigidos pelo aplicativo, como câmera, serviços de Bluetooth ou tela multitoque.
+Declara as bibliotecas API de que o aplicativo precisa para ser vinculado (além das APIs de biblioteca do Android), como a Biblioteca do Google Maps.
+Declaração de componentes
+A principal tarefa do manifesto é informar ao sistema os componentes do aplicativo. Por exemplo, um arquivo de manifesto pode declarar uma atividade da seguinte forma:
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<manifest ... >
+    <application android:icon="@drawable/app_icon.png" ... >
+        <activity android:name="com.example.project.ExampleActivity"
+                  android:label="@string/example_label" ... >
+        </activity>
+        ...
+    </application>
+</manifest>
+No elemento <application>, o atributo android:icon aponta para recursos de um ícone que identifica o aplicativo.
+
+No elemento <activity>, o atributo android:name especifica o nome da classe totalmente qualificada da subclasse de Activity e o atributo android:label especifica uma string a usar como rótulo da atividade visível ao usuário.
+
+É necessário declarar todos os componentes do aplicativo que usam os elementos a seguir:
+
+Elementos <activity> para atividades
+Elementos <service> para serviços
+Elementos <receiver> para broadcast receivers
+Elementos <provider> para provedores de conteúdo
+Atividades, serviços e provedores de conteúdo incluídos na fonte, mas não declarados no manifesto, não ficam visíveis para o sistema e, consequentemente, podem não ser executados. No entanto, broadcast receivers podem ser declarados no manifesto dinamicamente no código (como objetos BroadcastReceiver) e registrados no sistema chamando-se registerReceiver().
+
+Para saber mais sobre a estrutura do arquivo de manifesto de aplicativos, consulte a documentação O arquivo AndroidManifest.xml.
+
+Declaração de recursos de componentes
+Conforme abordado acima, em Ativação de componentes, é possível usar um Intent para iniciar atividades, serviços e broadcast receivers. Você pode usar um Intent nomeando explicitamente o componente-alvo (usando o nome da classe do componente) no intent. Também é possível usar um intent implícito. Ele descreve o tipo de ação a ser realizada e fornece a opção de informar os dados sobre os quais você quer realizá-la. O intent implícito permite que o sistema encontre um componente no dispositivo que possa realizar a ação e iniciá-la. Se houver mais de um componente que possa executar a ação descrita pelo intent, o usuário selecionará qual deles usar.
+
+Atenção: se você usar um intent para iniciar um Service, use um intent explícito para verificar se seu aplicativo é seguro. O uso de um intent implícito para iniciar um serviço representa um risco de segurança, porque não é possível determinar qual serviço responderá ao intent, e o usuário não poderá ver que serviço é iniciado. A partir do Android 5.0 (API de nível 21), o sistema lança uma exceção ao chamar bindService() com um intent implícito. Não declare filtros de intents para seus serviços.
+
+Para o sistema identificar os componentes que podem responder a um intent, compara-se o intent recebido com os filtros de intent fornecidos no arquivo de manifesto de outros aplicativos no dispositivo.
+
+Ao declarar uma atividade no manifesto do aplicativo, é possível incluir filtros de intents que declarem os recursos da atividade para que ela responda a intents de outros aplicativos. Para declarar um filtro de intents no componente, adiciona-se um elemento <intent-filter> como filho do elemento de declaração do componente.
+
+Por exemplo, se você estiver criando um app de e-mails com uma atividade de compor um novo e-mail, poderá declarar um filtro de intents para responder a intents “enviar” (para enviar um novo e-mail), assim:
+
+
+<manifest ... >
+    ...
+    <application ... >
+        <activity android:name="com.example.project.ComposeEmailActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <data android:type="*/*" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
+Em seguida, se outro aplicativo criar um intent com a ação ACTION_SEND e passá-la para startActivity(), o sistema poderá iniciar a atividade de forma que o usuário possa rascunhar e enviar um e-mail.
+
+Para saber mais sobre filtros de intents, consulte o documento Intents e filtros de intents.
+
+Declaração de requisitos do aplicativo
+Existem vários dispositivos desenvolvidos para Android e nem todos apresentam os mesmos recursos e características. Para evitar que o aplicativo seja instalado em dispositivos que não contenham os recursos de que o aplicativo necessita, é importante definir um perfil para os tipos de dispositivo compatíveis com o aplicativo. É preciso declarar os requisitos de dispositivo e software no arquivo de manifesto. A maior parte dessas declarações é somente informativa e o sistema não as lê, mas serviços externos, como o Google Play, as leem para oferecer um filtro aos usuários quando buscam esses aplicativos para seu dispositivo.
+
+Por exemplo, se o aplicativo exigir uma câmera e usar APIs introduzidas no Android 2.1 (API de nível 7), será necessário declarar esses requisitos no arquivo de manifesto da seguinte forma:
+
+
+<manifest ... >
+    <uses-feature android:name="android.hardware.camera.any"
+                  android:required="true" />
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19" />
+    ...
+</manifest>
+Assim dispositivos que não tenham câmera e tenham versão do Android anterior à 2.1 não poderão instalar o aplicativo do Google Play. No entanto, também é possível declarar que o aplicativo usa a câmera como recurso não obrigatório. Nesse caso, o aplicativo precisa definir o atributo required como false e verificar no ambiente de execução se o dispositivo tem câmera para desativar os recursos da câmera conforme necessário.
+
+Veja mais informações sobre o gerenciamento da compatibilidade do aplicativo com diferentes dispositivos no documento Compatibilidade do dispositivo.
+
+Recursos do aplicativo
+Os apps Android são compostos de mais que somente códigos — eles exigem recursos separados do código-fonte, como imagens, arquivos de áudio e tudo o que se relaciona com a apresentação visual do aplicativo. Por exemplo, você precisa definir animações, menus, estilos, cores e o layout das interfaces do usuário da atividade com arquivos XML. O uso de recursos de aplicativo facilita a atualização de diversas características do aplicativo sem a necessidade de modificar o código. O fornecimento dos conjuntos de recursos alternativos permite otimizar o aplicativo para diversas configurações de dispositivo, como idiomas e tamanhos de tela diferentes.
+
+Para todo recurso incluído no projeto Android, as ferramentas de programação SDK definem um ID inteiro exclusivo que o programador pode usar para referenciar o recurso do código do aplicativo ou de outros recursos definidos no XML. Por exemplo, se o aplicativo contiver um arquivo de imagem de nome logo.png (salvo no diretório res/drawable/), as ferramentas de SDK gerarão um código de recurso chamado R.drawable.logo. Esse código mapeia a um valor inteiro específico do aplicativo, que você pode usar para consultar a imagem e inseri-la na sua interface do usuário.
+
+Um dos aspectos mais importantes de fornecer recursos separados do código-fonte é a capacidade de fornecer recursos alternativos para diferentes configurações de dispositivo. Por exemplo, ao definir strings de IU em XML, é possível converter as strings em outros idiomas e salvá-las em arquivos separados. Em seguida, com base em um qualificador de idioma acrescentado ao nome do diretório do recurso (como res/values-fr/ para valores de string em francês) e a configuração de idioma do usuário, o sistema Android aplica as strings de idioma adequadas à IU.
+
+O Android é compatível com vários qualificadores para recursos alternativos. O qualificador é uma string curta incluída no nome dos diretórios de recurso para definir a configuração do dispositivo em que esses recursos serão usados. Outro exemplo: é importante criar diferentes layouts para as atividades conforme a orientação e o tamanho da tela do dispositivo. Quando a tela do dispositivo está em orientação retrato (vertical), pode ser útil um layout com botões na vertical, mas, quando a tela está em orientação paisagem (horizontal), os botões precisam estar alinhados horizontalmente. Para alterar o layout conforme a orientação, é possível definir dois layouts diferentes e aplicar o qualificador adequado ao nome do diretório de cada layout. Em seguida, o sistema aplica automaticamente o layout adequado conforme a orientação atual do dispositivo.
+
+Para mais informações sobre os diferentes tipos de recursos a incluir no aplicativo e como criar recursos alternativos para diferentes configurações de dispositivo, leia Como fornecer recursos. Para saber mais sobre práticas recomendadas e o desenvolvimento de aplicativos robustos e que tenham qualidade de produção, consulte o Guia para arquitetura de aplicativos.
+
+
+Dispositivos Moveis
+Apresentando a plataforma Android
+Progressive Web APP x Hibrido x Nativo
+Sistema operacional open source, de código aberto, baseado em Linux
+O que é o Android?
+Smartphones e Tablets
+Wears (SmartWatches)  TVs
+Notebooks  Automóveis  loT
+Smartphones e Tablets
+Wears (SmartWatches)  TVs
+Notebooks  Automóveis  loT
+Como surgiu e evoluiu a plataforma Android.
+Histórico da Plataforma
+Ambiente de Desenvolvimento
+Vá em Settings
+About Phone
+Software lnformation
+Toque 7x em Build number
+Volte para tela anterior
+Procure por Developer options
+Habilite o USB Debug
+A um  dispositivo real
+Criando um Projeto!
+Selecione New Project
+Criando um projeto do Android Studio para seu aplicativo
+Selecione Empty Activity
+Clique em Next
+Criando um projeto do Android Studio para seu aplicativo
+Digite o nome do Projeto
+Digite o nome do Pacote
+Criando um projeto do Android Studio para seu aplicativo
+
+Escolha o local onde o projeto  será salvo
+Selecione a Linguagem  Escolha versão mínima de SDK  Clique em Finish
+Se tem um dispositivo físico ou  virtual execute o projeto.
+Caso não exista No Device  clique em Device Manager
+Clique em Create device
+Criando um projeto do Android Studio para seu aplicativo
+Dica: Quanto menor a resolução  Densidade e Tamanho menor a  exigencia de memoria.
+Escolha um aparelho ou  configuração.
+Clique em Next
+Criando um projeto do Android Studio para seu aplicativoEscolha a versão do sistema  operacional.
+Clique em Next
+
+Dicas: Provavelmente será  necessário fazer download
+Use as imagens da aba de  recomendados
+
+Ou se quiser pode customizar  seu aparelho clicando em
+Show Advanced Frame
+Criando um projeto do Android Studio para seu aplicativo
+Criando um projeto do Android Studio para seu aplicativo
+
+Prefiro iniciar o device primeiro  depois que estou vendo o Emulador  iniciar a aplicação.
+Agora com um Virtual device
+Pode iniciar a aplicação	ele vai  compilar, iniciar o device, instalar a  aplicação no device.
+Dica: Seja paciente
+
+
+Criando um projeto do Android Studio para seu aplicativo
+
+O android executando.
+Aba Emulator
+Criando um projeto do Android Studio para seu aplicativo
+
+Executando a aplicação.
+
+
+
+Estrutura do Projeto
+
+
+app:
+manifests -> contém o arquivo responsável pela  descrição do aplicativos, configurações e permissões
+java -> contém todo o codigo fonte do aplicativo  res -> resource contém todos os outros arquivos do
+app referentes a icones, imagens, layouts, dicionarios e etc.
+Activity
+
+
+
+Ponto de entrada para o app
+Um app pode ser aberto a partir de diferentes lugares, por exemplo: ícone do launcher,  notificação, ou vindo de algum outro app.
+Cada Activity, geralmente, tem sua função própria e deve ter baixa  dependência (ou nenhuma) de outra Activity
+As tarefas de cada Activity podem ser diferentes, como login, lista de itens ou os detalhes.
+Activity fornece a janela para o app desenhar a interface do usuário.
+Geralmente ocupam a tela toda do dispositivo. Mas é possível ser menor do que a tela e  "flutuar" sobre outras janelas / activities.
+Cada Activity deve ser declarada no AndroidManifest.XML
+Declarando uma Activity
+TODA Activity DEVE ser declarada no  AndroidManifest.XML
+O único elemento obrigatório da Activity é  o android:name, que deve indicar o  caminho da classe Activity criada.
+Pode ser usado a abreviação "." antes do  nome para indicar o pacote do app  (definido na hora da criação do projeto).
+Alterar o nome de uma Activity depois de  publicar o seu app, pode gerar "crashes"  em outros pontos do seu app.
+Declarando uma Activity
+
+TODA Activity DEVE ser declarada no  AndroidManifest.XML
+O único elemento obrigatório da Activity é  o android:name, que deve indicar o  caminho da classe Activity criada.
+Pode ser usado a abreviação "." antes do  nome para indicar o pacote do app  (definido na hora da criação do projeto).
+Alterar o nome de uma Activity depois de  publicar o seu app, pode gerar "crashes"  em outros pontos do seu app.
+Estrutura de uma Activity
+
+onCreate() → Método chamado quando o Android inicializa sua Activity. Aqui  deve a inicialização dos componentes essenciais.
+onStart() → Após o onCreate(), a Activity se torna visível para o usuário e  esse método é chamado.
+onResume() → imediatamente antes de a atividade começar a interagir com  o usuário. Neste ponto, a atividade fica na parte superior da pilha de  atividades e captura toda a entrada do usuário. A maior parte da  funcionalidade principal de um app é implementada no método onResume().
+Estrutura de uma Activity
+
+visível para o usuário. lsso pode acontecer porque a atividade está sendo  destruída, uma nova atividade está sendo iniciada ou uma atividade existente  está entrando em um estado ”Retomado” e está cobrindo a atividade  
+interrompida.
+Esse é o último callback que a atividade recebe.onDestroy()normalmente é implementado para garantir que todos os recursos de uma atividade sejam liberados quando ela (ou o  processo que a contém) for destruída.
+Ciclo de vida e Log
+Crie uma aplicação e adicione um Log para cada metodo do ciclo de vida e observe o  comportamento no LogCat
+Exemplo:
+@override
+protected void onCreate(Bundle savedınstanceState) {  super.onCreate(savedınstanceState);  setContentview(R.layout.activity_main);  Log.d("Ciclo de vida","onCreate");
+}
+Confere no git depois de tentar.
+
+Widgets
+Os elementos visuais para criar  telas do seu app
+
+
+
+
+
+Componentes Visuais View
+
+A interface do usuário (lU) de um app Android é criada usando uma hierarquia de  layouts e widgets. Os layouts são objetos ViewGroup, contêineres que controlam  como as visualizações filhas são posicionadas na tela. Widgets são objetos View,  componentes de lU, como botões e caixas de texto.
+
+Editor de Layout
+Ao abrir um arquivo de  layout é possível fazer uso  do Editor de layout.
+Os layouts ficar em:
+\res\layouts\
+Editor de Layout
+Arraste componentes da  paleta para a parte central.
+É possível verificar a  organização dos  componentes em  COmponent Tree
+
+Attributes
+
+Selecione o LinearLayout no  Component Tree
+Os atributos dos componentes  podem ser alterados na Aba  Attributes ou diretamente pelo  xml.
+Observe os atributos, layout_width  e layout_height em Layout e o  atributo orientation em Common  Attributes
+
+
+
+
+
+
+
+
+Hands on
+
+Troque o componente raiz de ConstraintLayout para LinearLayout.
+O LinearLayout tem uma propriedade orientação que deve ser definida como  vertical, assim o comportamento dele será de colocar um componente embaixo  do outro de acordo com a organização.
+Adicione um TextView, um EditText e um Button.
+Todos os componentes tem sempre 2 propriedades que são obrigatórias:
+android:layout_width=""  android:layout_height=""
+
+
+
+
+
+Hands on
+
+
+layout_width e layout_height podem assumir qualquer valor absoluto. Exemplo:  100dp, 50dp, 33dp e etc.
+Mas para que os componentes tenha um comportamento responsivo utilizamos:
+”wrap_content” o componente define o próprio tamanho de acordo com o  necessário para ajustar o conteúdo a ele.
+”match_parent” O componente expande o máximo possível dentro do  componente em em que ele está contido (componente pai).
+
+
+Atividade 1
+
+Crie uma aplicação, use LinearLayout, adicione um TextView, EditText e Button.
+layout_width="match_parent"
+layout_height="wrap_content"  orientation="vertical"
+id="@+id/main_text_view"
+layout_width="match_parent"  layout_height="wrap_content"  gravity="center"  textSize="48sp"
+id="@+id/main_text_input"
+layout_width="match_parent"  layout_height="wrap_content"  hint="Digite"  inputType="text"  textSize="48sp"
+id="@+id/main_text_input"
+layout_width="match_parent"  layout_height="wrap_content"  hint="Digite"  inputType="text"  textSize="48sp"
+id="@+id/main_button"
+layout_width="match_parent"  layout_height="wrap_content"  text="Exibir"  onClick="clickButton"  textSize="34sp"
+private Textview rotulo;
+private EditText texto;  private Button botao;
+@override
+protected void onCreate(Bundle savedınstanceState) {  super.onCreate(savedınstanceState);  setContentview(R.layout.activity_main);
+rotulo = findviewByıd(R.id.main_text_view);  texto = findviewByıd(R.id.main_text_input);  botao = findviewByıd(R.id.main_button);
+}
+public void clickButton(view view){
+String valor = texto.getText().toString();  rotulo.setText(valor);
+}
+RecyclerView
+Porque usar?
+* Exibe de forma eficiente grandes conjuntos de dados.
+* Permite definir a aparência de cada item, 
+* Recicla ou cria dinamicamente os elementos individuais quando necessário:
+* melhora o desempenho,
+* capacidade de resposta do app 
+* Reduz o consumo de energia
+Principais Classes
+RecyclerView  (ViewGroup): elemento da IU responsável por conter as visualizações correspondentes aos seus elementos.
+ RecyclerView.ViewHolder: representa o elemento individual a ser criado deve ser estendido para associar os dados ao elemento.
+RecyclerView.Adapter: representa o adaptador e deve ser estendido para vincular a visualização e dados. Ele solicita as visualizações e vincula as visualizações aos dados.
+LayoutManager:  responsável por gerenciador de layout organiza os elementos individuais na lista. Você pode usar um dos gerenciadores de layout fornecidos pela biblioteca RecyclerView ou pode definir seu próprio gerenciador.
+
+Princípios de arquitetura comuns
+Se não é recomendável usar componentes do app para armazenar dados e estados, qual é a melhor forma de criar um app?
+
+Conforme os apps para Android aumentam de tamanho, é importante definir uma arquitetura que permita o escalonamento, aumente a robustez e facilite o teste do app.
+
+Uma arquitetura de app define os limites entre as partes do app e as responsabilidades de cada uma. A fim de atender às necessidades mencionadas acima, crie a arquitetura do app para seguir alguns princípios específicos.
+
+Separação de conceitos
+O princípio mais importante que precisa ser seguido é a separação de conceitos (link em inglês). É um erro comum escrever todo o código em uma Activity ou um Fragment. Essas classes baseadas em IU precisam conter apenas a lógica que processa as interações entre a IU e o sistema operacional. Ao manter essas classes o mais enxutas possível, você pode evitar muitos problemas relacionados ao ciclo de vida de componentes e melhorar a capacidade de teste dessas classes.
+
+Vale lembrar que a propriedade de implementações da Activity e do Fragment não é sua. Na verdade, elas são apenas classes que representam o contrato entre o SO Android e o app. O SO pode destruí-las a qualquer momento com base nas interações do usuário ou devido a condições do sistema, como pouca memória. Para fornecer uma experiência do usuário satisfatória e uma experiência de manutenção de app mais gerenciável, o melhor é minimizar sua dependência dessas classes.
+
+IU do Drive com base em modelos de dados
+Outro princípio importante é que você precisa basear sua IU em modelos de dados, de preferência, modelos persistentes. Os modelos de dados representam os dados de um app. Eles são independentes dos elementos da IU e outros componentes do app. Isso significa que eles não estão vinculados ao ciclo de vida do componente da IU e do app, mas ainda vão ser destruídos quando o SO decidir remover o processo do app da memória.
+
+Os modelos persistentes são ideais por estes motivos:
+
+Seus usuários não perderão dados se o SO Android destruir o app para liberar recursos.
+
+O app continuará a funcionar caso uma conexão de rede esteja instável ou indisponível.
+
+Se você basear a arquitetura do app em classes de modelo de dados, ele vai se tornar mais testável e robusto.
+
+Única fonte de informações
+Quando um novo tipo de dado é definido no seu app, você precisa atribuir uma Única fonte de informações (SSOT, na sigla em inglês) a ele. A SSOT é a proprietária desses dados, e apenas ela pode fazer mudanças neles. Para isso, ela expõe os dados usando um tipo imutável, e para fazer mudanças ela expõe funções ou recebe eventos que outros tipos podem chamar.
+
+Esse padrão traz vários benefícios:
+
+Ele centraliza todas as mudanças de um tipo específico de dados em um só lugar.
+Ele protege os dados para que outros tipos não possam fazer adulterações neles.
+Ele faz com que as mudanças nos dados sejam mais rastreáveis. Assim, os bugs são mais fáceis de detectar.
+Em um aplicativo que prioriza o modo off-line, a fonte da verdade para os dados do aplicativo geralmente é um banco de dados. Em alguns outros casos, ela pode ser um ViewModel ou até mesmo a IU.
+
+Fluxo de dados unidirecional
+O princípio da Única fonte de informações geralmente é usado nos nossos guias com o padrão Fluxo de dados unidirecional (UDF, na sigla em inglês). No UDF, o estado flui em apenas uma direção. São os eventos que modificam o fluxo de dados na direção oposta.
+
+No Android, o estado ou os dados geralmente fluem dos tipos de escopo mais altos da hierarquia para os mais baixos. Os eventos geralmente são acionados pelos tipos de escopo mais baixos até alcançarem a SSOT para o tipo de dados correspondente. Por exemplo, os dados do app geralmente fluem das fontes de dados para a IU. Já os eventos do usuário, como pressionamento de botões, fluem da IU para a SSOT, em que os dados do aplicativo são modificados e expostos em um tipo imutável.
+
+Esse padrão garante melhor a consistência dos dados, é menos propenso a erros, é mais fácil de depurar e traz todos os benefícios do padrão SSOT.
+
+Arquitetura de app recomendada
+Esta seção demonstra como estruturar o app seguindo as práticas recomendadas.
+
+Observação: as recomendações e práticas recomendadas apresentadas nesta página podem ser aplicadas a vários tipos de apps para permitir o escalonamento, a melhoria da qualidade e a robustez, além de facilitar os testes. No entanto, trate-as como orientações e as adapte conforme necessário.
+Considerando os princípios de arquitetura comuns mencionados na seção anterior, cada aplicativo precisa ter pelo menos duas camadas:
+
+A camada de IU que mostra os dados do aplicativo na tela.
+A camada de dados que contém a lógica de negócios do app e expõe os dados do aplicativo.
+É possível adicionar uma camada extra conhecida como camada de domínios para simplificar e reutilizar as interações entre a IU e as camadas de dados.
+
+Em uma arquitetura de app típica, a camada de IU recebe os dados do aplicativo
+    da camada de dados ou da camada de domínios opcional, que fica entre
+    a camada de IU e a camada de dados.
+Figura 1. Diagrama de uma arquitetura típica de app.
+Observação: as setas nos diagramas deste guia representam as dependências entre classes. Por exemplo, a camada do domínio depende das classes de camada de dados.
+Arquitetura moderna de apps
+Esta Arquitetura moderna de apps incentiva o uso das seguintes técnicas, entre outras:
+
+Uma arquitetura reativa e em camadas.
+Fluxo de dados unidirecional (UDF, na sigla em inglês) em todas as camadas do app.
+Uma camada da interface com detentores de estado para gerenciar a complexidade dela.
+Corrotinas e fluxos.
+Práticas recomendadas para injeção de dependência.
+Para mais informações, consulte as seções a seguir, as outras páginas de arquitetura no índice e a página de recomendações, que contém um resumo das práticas mais importantes.
+
+Camada de interface
+A função da camada de IU (ou camada de apresentação) é exibir os dados do aplicativo na tela. Sempre que os dados mudam, seja devido à interação do usuário, como o pressionamento de um botão, ou a uma entrada externa, como uma resposta de rede, a IU é atualizada para refletir as mudanças.
+
+A camada de IU é composta por dois itens:
+
+Elementos da IU que renderizam os dados na tela. Esses elementos são criados usando funções de visualizações ou do Jetpack Compose.
+Holders de estado, como classes ViewModel, que armazenam dados, os expõem à IU e processam a lógica.
+Em uma arquitetura típica, os elementos da IU da camada de IU dependem dos detentores
+    de estado, que, por sua vez, dependem de classes da camada de dados ou
+    da camada de domínios opcional.
+Figura 2. O papel da camada de IU na arquitetura do app.
+Para saber mais sobre essa camada, consulte a página sobre a camada de IU.
+
+Camada de dados
+A camada de dados de um app contém a lógica de negócios. A lógica de negócios é o que agrega valor ao app. Ela é composta por regras que determinam como o app cria, armazena e muda dados.
+
+A camada de dados é composta por repositórios que podem conter de zero a muitas fontes de dados. Crie uma classe de repositório para cada tipo diferente de dados processados no seu app. Por exemplo, você pode criar uma classe MoviesRepository para dados relacionados a filmes ou uma classe PaymentsRepository para dados relacionados a pagamentos.
+
+Em uma arquitetura típica, os repositórios da camada de dados fornecem dados
+    ao restante do app e dependem das fontes de dados.
+Figura 3. O papel da camada de dados na arquitetura do app.
+As classes de repositório são responsáveis por estas tarefas:
+
+Expor dados ao restante do app.
+Centralizar mudanças nos dados.
+Resolver conflitos entre várias fontes de dados.
+Abstrair fontes de dados do restante do app.
+Conter uma lógica de negócios.
+Cada classe de origem de dados deve ser responsável por trabalhar com apenas uma origem, que pode ser um arquivo, uma rede ou um banco de dados local. As classes de fonte de dados são a ponte entre o aplicativo e o sistema para operações de dados.
+
+Para saber mais sobre essa camada, consulte a página sobre a camadas de dados.
+
+Camada de domínios
+A camada de domínios é opcional e fica entre a IU e as camadas de dados.
+
+A camada de domínios é responsável por encapsular a lógica de negócios complexa ou simples que é reutilizada por vários ViewModels. Essa camada é opcional, porque nem todos os apps vão ter esses requisitos. Use-a apenas quando necessário, por exemplo, para lidar com a complexidade ou favorecer a reutilização.
+
+Quando incluída, a camada de domínios opcional oferece dependências para
+    a camada da IU e depende da camada de dados.
+Figura 4. O papel da camada de domínios na arquitetura do app.
+As classes nessa camada normalmente são chamadas de casos de uso ou interagentes. Cada caso de uso precisa ser responsável por uma única funcionalidade. Por exemplo, o app pode ter uma classe GetTimeZoneUseCase se vários ViewModels dependerem de fusos horários para mostrar a mensagem adequada na tela.
+
+Para saber mais sobre essa camada, consulte a página da camada de domínios.
+
+Gerenciar dependências entre componentes
+As classes no app dependem de outras para funcionar corretamente. É possível usar um dos padrões de design abaixo para reunir as dependências de uma classe específica:
+
+Injeção de dependência (DI, na sigla em inglês): permite que as classes definam as próprias dependências sem as construir. Durante a execução, outra classe é responsável por fornecer essas dependências.
+Localizador de serviço (link em inglês): esse padrão traz um registro de onde as classes podem buscar, em vez de construir, as próprias dependências.
+Esses padrões permitem dimensionar o código, porque fornecem padrões claros para gerenciar dependências sem duplicar o código ou elevar a complexidade dele. Além disso, permitem alternar rapidamente entre implementações de teste e de produção.
+
+Recomendamos seguir os padrões de injeção de dependência e usar a biblioteca Hilt em apps Android. A biblioteca Hilt constrói os objetos automaticamente percorrendo a árvore de dependências, além de oferecer garantias de tempo de compilação nas dependências e criar contêineres de dependência para classes do framework do Android.
+
+Práticas recomendadas gerais
+A programação é um campo criativo, e a criação de apps Android não é uma exceção. Há muitas maneiras de resolver um problema: é possível comunicar dados entre várias atividades ou fragmentos, extrair dados remotos e os armazenar localmente no modo off-line ou lidar com qualquer outro cenário comum que apps não triviais encontrem.
+
+Embora as recomendações abaixo não sejam obrigatórias, na maioria dos casos a observação delas torna sua base de código mais robusta, testável e de fácil manutenção a longo prazo:
+
+Não armazene dados em componentes do app.
+
+Evite designar os pontos de entrada do app, como atividades, serviços e broadcast receivers, como fontes de dados. Em vez disso, eles precisam se coordenar com outros componentes apenas para extrair o subconjunto de dados relevante para esse ponto de entrada. Cada componente do app tem vida curta, dependendo da interação do usuário com o dispositivo e da integridade geral do sistema.
+
+Reduza as dependências nas classes do Android.
+
+Os componentes do app precisam ser as únicas classes que dependem das APIs do SDK do framework do Android, como Context ou Toast. Abstrair outras classes delas no app melhora a capacidade de teste e reduz o acoplamento no app.
+
+Crie limites de responsabilidade bem definidos entre os vários módulos do app.
+
+Por exemplo, não divulgue o código que carrega dados da rede em várias classes ou pacotes na sua base de código. Da mesma forma, não defina várias responsabilidades não relacionadas, como armazenamento de dados em cache e vinculação de dados, na mesma classe. Seguir a arquitetura de apps recomendada vai ajudar com isso.
+
+Exponha o mínimo possível de cada módulo.
+
+Por exemplo, não crie um atalho que exponha um detalhe de implementação interna de um módulo. Você pode economizar um pouco de tempo a curto prazo, mas provavelmente vai pagar caro por isso tecnicamente à medida que sua base do código progredir.
+
+Concentre-se no núcleo exclusivo do seu app para que ele se destaque de outros.
+
+Não reinvente a roda escrevendo o mesmo código boilerplate várias vezes. Em vez disso, concentre seu tempo e energia no que torna seu app único e deixe que as bibliotecas do Jetpack e outras bibliotecas recomendadas processem o boilerplate repetitivo.
+
+Considere como tornar cada parte do app testável de forma isolada.
+
+Por exemplo, ter uma API bem definida para buscar dados da rede facilita os testes do módulo que mantém esses dados em um banco de dados local. Se, em vez disso, você mesclar a lógica desses dois módulos em um só lugar ou distribuir o código de rede por toda a base de código, vai ser muito mais difícil, ou até impossível, testá-los.
+
+Os tipos são responsáveis pela própria política de simultaneidade.
+
+Se um tipo estiver executando um trabalho de bloqueio de longa duração, ele precisará ser responsável por mover esse cálculo para a linha de execução correta. Esse tipo específico sabe o tipo de cálculo que está sendo feito e em qual linha de execução ele precisa ser executado. Os tipos precisam ser protegidos, ou seja, eles podem ser chamados com segurança da linha de execução principal sem que ela seja bloqueada.
+
+Aplique o máximo de persistência possível em dados relevantes e atualizados.
+
+Dessa forma, os usuários podem aproveitar a funcionalidade do app mesmo quando o dispositivo estiver no modo off-line. Lembre-se de que nem todos os usuários têm conectividade constante e de alta velocidade e, mesmo se tiverem, eles podem ter sinal ruim em alguns lugares lotados.
+
+Benefícios da arquitetura
+Ter uma boa arquitetura implementada no app oferece muitos benefícios para as equipes de projetos e engenharia:
+
+Melhor manutenção, qualidade e robustez para o app em geral.
+Possibilidade de escalonamento do app. Mais pessoas e equipes podem contribuir para a mesma base de código com conflitos mínimos.
+Ajuda na integração. Como a arquitetura traz consistência ao projeto, os novos membros da equipe podem começar a trabalhar mais rápido e ser mais eficientes em menos tempo.
+Mais fácil de testar. Uma boa arquitetura incentiva tipos mais simples, que geralmente são mais fáceis de testar.
+Os bugs podem ser investigados metodicamente com processos bem definidos.
+
+
+
+
+
+
